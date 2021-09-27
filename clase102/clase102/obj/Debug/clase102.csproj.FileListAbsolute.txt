@@ -1,0 +1,11 @@
+C:\Users\domi2\source\repos\clase102\clase102\bin\Debug\clase102.exe.config
+C:\Users\domi2\source\repos\clase102\clase102\bin\Debug\clase102.exe
+C:\Users\domi2\source\repos\clase102\clase102\bin\Debug\clase102.pdb
+C:\Users\domi2\source\repos\clase102\clase102\obj\Debug\clase102.csproj.AssemblyReference.cache
+C:\Users\domi2\source\repos\clase102\clase102\obj\Debug\clase102.Form1.resources
+C:\Users\domi2\source\repos\clase102\clase102\obj\Debug\clase102.Properties.Resources.resources
+C:\Users\domi2\source\repos\clase102\clase102\obj\Debug\clase102.csproj.GenerateResource.cache
+C:\Users\domi2\source\repos\clase102\clase102\obj\Debug\clase102.csproj.CoreCompileInputs.cache
+C:\Users\domi2\source\repos\clase102\clase102\obj\Debug\clase102.exe
+C:\Users\domi2\source\repos\clase102\clase102\obj\Debug\clase102.pdb
+C:\Users\domi2\source\repos\clase102\clase102\obj\Debug\clase102.vista.venta.resources
